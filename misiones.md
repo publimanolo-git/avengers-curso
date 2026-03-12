@@ -2,4 +2,5 @@
 
 Estas son las misiones que se deben cumplir:
 
-* Investigar al Dr. Octopus
+* Investigar al Dr. Octopus.
+* Capturar a Red Skull.
